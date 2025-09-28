@@ -1,5 +1,7 @@
 html{
     background-color: black;
+    height: 100dvh;
+    width: 100dvw;
 }
 div{
     width: 80%;
@@ -38,5 +40,6 @@ p{
   font-weight: 400;
   font-style: italic;
 }
+
 
 
