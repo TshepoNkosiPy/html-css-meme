@@ -3,8 +3,7 @@ html{
 }
 div{
     width: 80%;
-    margin-left: 10%;
-    margin-top:25%;
+    margin: 10% auto 25% 25%;
     height: auto;
     color: rgb(245, 231, 43)
 }
@@ -37,3 +36,4 @@ p{
   font-weight: 400;
   font-style: italic;
 }
+
